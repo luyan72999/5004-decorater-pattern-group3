@@ -1,6 +1,6 @@
 # 5004-decorater-pattern-group3
 
-Team Member: Judy Want, Lu Yan, Jinda Zhang
+Team Member: Judy Wang, Lu Yan, Jinda Zhang
 
 ## Introduction
 
