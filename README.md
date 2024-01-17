@@ -31,7 +31,7 @@ By using the Decorator Pattern, you can add functionality to objects dynamically
 
 ## Code Walkthrough
 
-In our real-world project Tea implementing decorater pattern, we start with declearing abstract class Tea.
+In our real-world project Tea that implements decorater pattern, we start with declaring the abstract class Tea.
 ```java
 public abstract class Tea {
   Size size = Size.LARGE;
@@ -147,7 +147,7 @@ The class has a constructor that takes a Tea object and assigns it to the tea in
 
 
 
-## How to Run It?
+## How to Run It
 
 To get started with this project, you will need to have Java 11 installed on your system. You can clone this repository and open the project in your favorite Java IDE.
 
@@ -163,7 +163,7 @@ Output:
 ![image](https://user-images.githubusercontent.com/70824612/230707431-92d11fa0-34dd-4926-842d-4d0d6f0335d6.png)
 
 
-## Reference
+## References
 
 - Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley Professional.
 
