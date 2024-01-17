@@ -12,7 +12,7 @@ The Decorator Pattern is used when you want to add behavior to an individual obj
 
 ![image](https://user-images.githubusercontent.com/70824612/229972235-1889ad5f-99b9-48d9-a6a5-a342527675ef.png)
 
-## Application (When to use it?)
+## Application (When to use it)
 The Decorator Pattern is a powerful design pattern that can be used in various scenarios. Some of the common use cases of the Decorator Pattern are:
 
 - Dynamic behavior modification: When you want to add or remove functionality to an object without affecting other instances of the same object, especially when it's impractical to create a subclass for every possible combination of attributes. For instance, in game development, the Decorator Pattern can be used to modify the behavior of game objects. For example, you could use a decorator to add a power-up effect to a game object.
