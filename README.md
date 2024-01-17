@@ -29,7 +29,7 @@ By using the Decorator Pattern, you can add functionality to objects dynamically
 
 ![image](https://user-images.githubusercontent.com/70824612/230707749-f8da5999-d98f-41ec-b231-d010e1ecfe71.png)
 
-## Code Walkthrough
+## Code with explanation
 
 In our real-world project Tea that implements decorater pattern, we start with declaring the abstract class Tea.
 ```java
